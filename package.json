@@ -1,6 +1,6 @@
 {
-  "name": "@frida/diagnostics_channel",
-  "description": "Node.js's diagnostics_channel module for Frida",
+  "name": "@plawnekjx/diagnostics_channel",
+  "description": "Node.js's diagnostics_channel module for Plawnekjx",
   "version": "1.0.0",
   "publishConfig": {
     "access": "public"
@@ -12,11 +12,11 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frida/gumjs-diagnostics-channel.git"
+    "url": "https://github.com/plawnekjx/gumjs-diagnostics-channel.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/frida/gumjs-diagnostics-channel/issues"
+    "url": "https://github.com/plawnekjx/gumjs-diagnostics-channel/issues"
   },
-  "homepage": "https://github.com/frida/gumjs-diagnostics-channel#readme"
+  "homepage": "https://github.com/plawnekjx/gumjs-diagnostics-channel#readme"
 }
